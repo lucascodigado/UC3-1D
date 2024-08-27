@@ -5,6 +5,16 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 ## Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
 
+````js
+const nome "lucas"
+console.log(nome)
+````
+
+const combinhodobalola = prompt("Deseja comprar o super combinho do balola")
+
+if(combinhodobalola == "sim") 
+  
+console.log (`parabéns,${combinhodobalola}, você ganhou um, BRINDE!!`) 
 
 
 ## Atividades desenvolvidas
